@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThreadImplementation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select_complexity">"Select Complexity: "</string>
+    <string name="gen_num_thread">&quot;Generate Number Thread&quot;</string>
+    <string name="gen_num_async">&quot;Generate Number Async Task&quot;</string>
+
+</resources>
